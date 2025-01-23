@@ -16,6 +16,6 @@
 - **Tools:** Git, GitHub, Postman, IntelliJ, Visual Studio Code
 - **Databases:** MySQL, SQL Server
 
-## 📫 Let's Connect:
-[![LinkedIn](https://www.linkedin.com/in/omri-mercado/)
-[!Email](omrimercado16@gmail.com)
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/omri-mercado/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omrimercado16@gmail.com)
