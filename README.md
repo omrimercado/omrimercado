@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @omrimercado
-- 👀 I’m interested in developing 
-- 🌱 I’m currently learning Computer science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail:omrimercado16@gmail.com, or LinkedIn:Omri Mercado 
+# Hi there 👋, I'm Omri Mercado
 
-<!---
-omrimercado/omrimercado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 🎓 Computer Science Student at HIT (2022–2025)
+- 🌱 Currently learning React and improving my Java skills.
+- 🔍 Looking for a Junior Software Developer role.
+
+## 💼 Projects
+- [Ortho-Ped](http://ortho-ped.co.il/) – A doctor's website built with Angular and ASP.NET.
+- Cost Manager - A RESTful API built using Node.js for managing financial expenses.
+- Sports Event -  Ticketing System – Ongoing project using JavaFX, DAO, and pattern-matching algorithms.
+
+## 📚 Skills
+- **Languages:** Java, JavaScript, HTML, CSS, C,C++,Python
+- **Frameworks:** Angular, .NET, JavaFX
+- **Tools:** Git, GitHub, Postman, IntelliJ, Visual Studio Code
+- **Databases:** MySQL, SQL Server
+
+## 📫 Let's Connect:
+[![LinkedIn](https://www.linkedin.com/in/omri-mercado/)
+[!Email](omrimercado16@gmail.com)
